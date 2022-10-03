@@ -1,0 +1,17 @@
+{
+  "name": "odin-testing-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testingFunctions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.1.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.19.3"
+  }
+}
